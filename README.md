@@ -109,7 +109,7 @@ JackAndJokes-ChromeExtension/
 ### Connect With Me
 
 - GitHub: https://github.com/ASHWANIKUMARGUPTA14830
-- LinkedIn: https://www.linkedin.com/in/ashwani-kumar-gupta-7304ab296/
+- LinkedIn: https://www.linkedin.com/in/eng-ashwani-gupta/
 
 ---
 
